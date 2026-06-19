@@ -875,14 +875,6 @@ body{
     transition: transform 0.3s ease;
 }
 
-.about__mission {
-    width: 528px;
-    padding: 47px 25px;
-    background-image: url('../images/frame.png');
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-}
-
 .about__mission p {
     width: 478px;
     font-family: 'Marck Script', cursive;
