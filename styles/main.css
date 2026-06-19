@@ -801,7 +801,7 @@ body{
 .about__mission {
     width: 528px;
     padding: 47px 25px;
-    background-image: url('./images/frame.png');
+    background-image: url('../images/frame.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -878,7 +878,7 @@ body{
 .about__mission {
     width: 528px;
     padding: 47px 25px;
-    background-image: url('./images/frame.png');
+    background-image: url('../images/frame.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
